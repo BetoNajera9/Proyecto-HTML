@@ -1,0 +1,27 @@
+.post {
+  paddding-bottom:20px;
+  margin button: 20px;
+  border-bottom: 1px solid #999;
+
+}
+
+p {
+  font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+  font-size: 15px;
+}
+
+li{
+  background-color: rgba(201, 76, 76, 0);
+  font-family: Vepxgur, 'PT Sans', Verdana, Sans-serif;
+  font-size: 20px;
+  color:#5FA6D7
+}
+
+div.migas{
+  background-color: rgba(0, 3, 201, 0);
+}
+
+section.jumbotron{
+  background-color: black;
+  color: white;
+}
